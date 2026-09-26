@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>sanket-news</id>
+  <title>My Daily News</title>
+  <updated>2026-09-26T06:00:00Z</updated>
+
+  <entry>
+    <id>test-book</id>
+    <title>Test Book</title>
+    <updated>2026-09-26T06:00:00Z</updated>
+    <link rel="http://opds-spec.org/acquisition"
+          href="https://SanketMagodia.github.io/OPDS/The Alchemist - Paulo Coelho _Worldfreebooks.com_.epub"
+          type="application/epub+zip"/>
+  </entry>
+</feed>
