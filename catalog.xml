@@ -4,7 +4,7 @@
   <title>My Daily News</title>
   <updated>2026-09-30T10:48:25Z</updated>
 
-  <entry><title>Alices_Adventures_in_Wonderland.epub</title><id>urn:manual:Alices_Adventures_in_Wonderland.epub</id><updated>2026-09-30T10:48:25Z</updated><link rel="http://opds-spec.org/acquisition" href="https://raw.githubusercontent.com/SanketMagodia/OPDS/main/books/Alices_Adventures_in_Wonderland.epub" type="application/epub+zip" /></entry><entry>
+  <entry>
     <id>test-book</id>
     <title>Test Book</title>
     <updated>2026-09-26T06:00:00Z</updated>
